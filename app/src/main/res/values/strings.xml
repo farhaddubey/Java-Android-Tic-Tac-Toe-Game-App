@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ticktacktoe</string>
+    <string name="header">Welcome to the Brain Game : Tick-Tack-Toe</string>
+    <string name="grid">Our Main Grid</string>
+</resources>
